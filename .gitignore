@@ -3,9 +3,11 @@
 /site/data/PluginGoDocs.json
 /site/data/PluginManifestDocs.json
 /site/data/PluginJSDocs.json
+/site/data/mattermost-*-make-help.txt
 /scripts/node_modules
 /scripts/mattermost-webapp
 
 # os artifacts
 *.swp
 .DS_Store
+/tmp
